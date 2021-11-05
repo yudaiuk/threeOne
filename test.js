@@ -275,8 +275,8 @@
   // エラーにも定義されていないと書いてあったが、バージョン違いだと勘違いしていたので、遅れた。
   // 貼り付けると、ちゃんと動いた。
   // 6分(合計4時間41分)
-  // githubにterminal使ってup(24分)
-  // 合計(5時間5分)
+  // githubにterminal使ってup(30分)
+  // 合計(5時間11分)
 
   // それぞれのrender loopを画面に表示するのに必要なものを要約すると
   // 1. create renderTargetA framebuffer that will allow us to render to a separate texture in the users device video memory
